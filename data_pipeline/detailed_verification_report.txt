@@ -1,0 +1,208 @@
+=================================================================================
+             KUMBH MONITOR - EXHAUSTIVE ARTICLE VERIFICATION REPORT
+             Run Date: 2026-05-29 11:56:18
+             Total Cleaned Articles Checked: 192
+=================================================================================
+
+ID   | Date       | Source                       | Body Len | Verif Status | Notes
+--------------------------------------------------------------------------------------------------------------
+1    | 2025-12-02 | deccanchronicle.com          | 2546     | PASSED       | Fully Verified
+3    | 2025-11-14 | deccanchronicle.com          | 2851     | PASSED       | Fully Verified
+4    | 2025-10-04 | timesofindia.indiatimes.com  | 7457     | PASSED       | Fully Verified
+5    | 2015-07-14 | aajtak.in                    | 1990     | PASSED       | Fully Verified
+7    | 2025-11-11 | timesofindia.indiatimes.com  | 7069     | PASSED       | Fully Verified
+8    | 2015-07-15 | thehindu.com                 | 2149     | PASSED       | Fully Verified
+9    | 2016-08-18 | timesofindia.indiatimes.com  | 6472     | PASSED       | Fully Verified
+10   | 2024-06-25 | timesofindia.indiatimes.com  | 5450     | PASSED       | Fully Verified
+11   | 2025-04-25 | timesofindia.indiatimes.com  | 5148     | PASSED       | Fully Verified
+12   | 2025-06-05 | timesofindia.indiatimes.com  | 5542     | PASSED       | Fully Verified
+16   | 2015-08-29 | indianexpress.com            | 4018     | PASSED       | Fully Verified
+17   | 2015-07-14 | indianexpress.com            | 4368     | PASSED       | Fully Verified
+18   | 2025-04-08 | timesofindia.indiatimes.com  | 6658     | PASSED       | Fully Verified
+19   | 2015-08-27 | thehindu.com                 | 1883     | PASSED       | Fully Verified
+20   | 2015-07-14 | indianexpress.com            | 4911     | PASSED       | Fully Verified
+21   | 2015-08-18 | baps.org                     | 68       | PASSED (WARN) | Clean body extremely short
+23   | 2015-07-14 | aajtak.in                    | 380      | PASSED (WARN) | No core Kumbh/Simhastha keywords detected in text
+24   | 2015-07-14 | aajtak.in                    | 1879     | PASSED (WARN) | No core Kumbh/Simhastha keywords detected in text
+25   | 2015-07-14 | mapsofindia.com              | 5673     | PASSED       | Fully Verified
+26   | 2015-08-26 | indianexpress.com            | 3201     | PASSED       | Fully Verified
+27   | 2025-02-24 | livemint.com                 | 2603     | PASSED       | Fully Verified
+29   | 2025-02-01 | timesofindia.indiatimes.com  | 5150     | PASSED       | Fully Verified
+30   | 2016-01-13 | afaqs.com                    | 3465     | PASSED       | Fully Verified
+32   | 2025-03-24 | mid-day.com                  | 1485     | PASSED       | Fully Verified
+33   | 2015-07-14 | ibtimes.co.in                | 6814     | PASSED       | Fully Verified
+35   | 2015-07-14 | navbharattimes.indiatimes.co | 244      | PASSED       | Fully Verified
+37   | 2024-07-18 | timesofindia.indiatimes.com  | 4819     | PASSED       | Fully Verified
+38   | 2025-04-21 | timesofindia.indiatimes.com  | 4974     | PASSED       | Fully Verified
+41   | 2015-07-13 | newsgram.com                 | 1836     | PASSED       | Fully Verified
+42   | 2015-09-25 | thebetterindia.com           | 2266     | PASSED       | Fully Verified
+43   | 2015-09-13 | indianexpress.com            | 4374     | PASSED       | Fully Verified
+44   | 2015-07-07 | indianexpress.com            | 3858     | PASSED       | Fully Verified
+46   | 2015-07-01 | theguardian.com              | 6642     | PASSED       | Fully Verified
+47   | 2015-09-14 | indianexpress.com            | 3867     | PASSED       | Fully Verified
+49   | 2015-07-24 | dailyo.in                    | 2516     | PASSED       | Fully Verified
+50   | 2015-07-10 | m.economictimes.com          | 4188     | PASSED       | Fully Verified
+52   | 2015-07-17 | sandrp.in                    | 19820    | PASSED       | Fully Verified
+54   | 2025-08-04 | indiatvnews.com              | 2691     | PASSED       | Fully Verified
+56   | 2015-07-14 | deccanherald.com             | 112      | PASSED (WARN) | Clean body extremely short
+57   | 2015-07-22 | mid-day.com                  | 4110     | PASSED       | Fully Verified
+58   | 2015-07-15 | indianexpress.com            | 4322     | PASSED       | Fully Verified
+59   | 2015-07-04 | timesofindia.indiatimes.com  | 3888     | PASSED       | Fully Verified
+62   | 2015-07-13 | hindustantimes.com           | 3283     | PASSED       | Fully Verified
+65   | 2015-09-13 | indiatoday.in                | 1627     | PASSED       | Fully Verified
+66   | 2025-02-26 | deccanherald.com             | 379      | PASSED       | Fully Verified
+70   | 2026-02-17 | mid-day.com                  | 1536     | PASSED       | Fully Verified
+71   | 2025-11-04 | timesofindia.indiatimes.com  | 6747     | PASSED       | Fully Verified
+73   | 2025-02-27 | timesofindia.indiatimes.com  | 5028     | PASSED       | Fully Verified
+74   | 2025-04-04 | timesofindia.indiatimes.com  | 7008     | PASSED       | Fully Verified
+76   | 2015-07-14 | hinduexistence.org           | 5975     | PASSED       | Fully Verified
+77   | 2015-07-14 | prokerala.com                | 1407     | PASSED       | Fully Verified
+78   | 2025-06-30 | timesofindia.indiatimes.com  | 5432     | PASSED       | Fully Verified
+80   | 2025-07-17 | timesofindia.indiatimes.com  | 5263     | PASSED       | Fully Verified
+84   | 2025-07-26 | freepressjournal.in          | 4638     | PASSED       | Fully Verified
+87   | 2025-07-25 | punekarnews.in               | 3857     | PASSED       | Fully Verified
+88   | 2024-07-06 | freepressjournal.in          | 3171     | PASSED       | Fully Verified
+89   | 2026-01-12 | freepressjournal.in          | 3296     | PASSED       | Fully Verified
+94   | 2024-04-18 | freepressjournal.in          | 2756     | PASSED       | Fully Verified
+97   | 2025-11-26 | thehindu.com                 | 3440     | PASSED       | Fully Verified
+100  | 2015-07-14 | indiatvnews.com              | 3010     | PASSED       | Fully Verified
+102  | 2025-01-17 | blog.mygov.in                | 6024     | PASSED       | Fully Verified
+104  | 2015-07-14 | hindustantimes.com           | 1609     | PASSED       | Fully Verified
+105  | 2025-01-30 | frontline.thehindu.com       | 10273    | PASSED       | Fully Verified
+107  | 2025-01-14 | aajtak.in                    | 558      | PASSED       | Fully Verified
+116  | 2025-01-14 | etvbharat.com                | 2253     | PASSED       | Fully Verified
+118  | 2025-03-07 | blog.mygov.in                | 7240     | PASSED       | Fully Verified
+122  | 2025-02-24 | timesofindia.indiatimes.com  | 9037     | PASSED       | Fully Verified
+128  | 2025-01-07 | indiaai.gov.in               | 3190     | PASSED       | Fully Verified
+129  | 2024-10-07 | newsonair.gov.in             | 3172     | PASSED       | Fully Verified
+131  | 2025-02-06 | aninews.in                   | 3843     | PASSED       | Fully Verified
+132  | 2025-01-10 | travelandleisureasia.com     | 5987     | PASSED       | Fully Verified
+134  | 2025-01-13 | ddnews.gov.in                | 3243     | PASSED       | Fully Verified
+140  | 2024-12-13 | thehindu.com                 | 5212     | PASSED       | Fully Verified
+141  | 2025-01-20 | thehindu.com                 | 3906     | PASSED       | Fully Verified
+143  | 2024-12-28 | thehindu.com                 | 2429     | PASSED       | Fully Verified
+144  | 2025-02-26 | indiatoday.in                | 7654     | PASSED       | Fully Verified
+145  | 2025-01-24 | travel.economictimes.indiati | 1163     | PASSED       | Fully Verified
+146  | 2025-01-17 | newsonair.gov.in             | 758      | PASSED       | Fully Verified
+147  | 2025-01-27 | timesofindia.indiatimes.com  | 6400     | PASSED       | Fully Verified
+148  | 2025-01-07 | timesofindia.indiatimes.com  | 8247     | PASSED       | Fully Verified
+149  | 2025-01-02 | timesofindia.indiatimes.com  | 5157     | PASSED       | Fully Verified
+151  | 2025-02-19 | team-bhp.com                 | 3242     | PASSED       | Fully Verified
+152  | 2025-02-27 | indianexpress.com            | 3159     | PASSED       | Fully Verified
+153  | 2025-01-12 | aajtak.in                    | 802      | PASSED       | Fully Verified
+154  | 2025-03-02 | hindustantimes.com           | 3261     | PASSED       | Fully Verified
+155  | 2025-01-16 | timesofindia.indiatimes.com  | 6883     | PASSED       | Fully Verified
+157  | 2025-02-26 | thehindu.com                 | 8089     | PASSED       | Fully Verified
+160  | 2025-02-12 | afaqs.com                    | 10903    | PASSED       | Fully Verified
+161  | 2025-02-26 | hindustantimes.com           | 4484     | PASSED       | Fully Verified
+162  | 2025-01-08 | indianexpress.com            | 3110     | PASSED       | Fully Verified
+163  | 2025-02-04 | theatlantic.com              | 3893     | PASSED       | Fully Verified
+164  | 2025-02-10 | team-bhp.com                 | 3379     | PASSED       | Fully Verified
+165  | 2025-01-15 | downtoearth.org.in           | 4989     | PASSED       | Fully Verified
+166  | 2025-03-17 | m.thewire.in                 | 26198    | PASSED       | Fully Verified
+167  | 2025-01-08 | timesofindia.indiatimes.com  | 6095     | PASSED       | Fully Verified
+168  | 2025-01-13 | indiatoday.in                | 8444     | PASSED       | Fully Verified
+169  | 2025-02-27 | ddnews.gov.in                | 3911     | PASSED       | Fully Verified
+170  | 2025-01-13 | fortuneindia.com             | 5402     | PASSED       | Fully Verified
+171  | 2025-01-16 | thehindubusinessline.com     | 69870    | PASSED       | Fully Verified
+172  | 2025-01-24 | frontline.thehindu.com       | 6406     | PASSED       | Fully Verified
+173  | 2025-02-18 | thehindu.com                 | 3873     | PASSED       | Fully Verified
+174  | 2025-01-07 | timesofindia.indiatimes.com  | 5041     | PASSED       | Fully Verified
+176  | 2025-01-17 | timesofindia.indiatimes.com  | 5879     | PASSED       | Fully Verified
+177  | 2025-01-13 | indiatoday.in                | 7648     | PASSED       | Fully Verified
+178  | 2025-02-27 | etedge-insights.com          | 5494     | PASSED       | Fully Verified
+179  | 2025-01-13 | thehindu.com                 | 5102     | PASSED       | Fully Verified
+182  | 2025-01-02 | newsonair.gov.in             | 1073     | PASSED       | Fully Verified
+183  | 2025-03-03 | indiatoday.in                | 2081     | PASSED       | Fully Verified
+184  | 2025-01-16 | thehindu.com                 | 4903     | PASSED       | Fully Verified
+185  | 2025-01-22 | timesofindia.indiatimes.com  | 3532     | PASSED       | Fully Verified
+186  | 2024-12-07 | m.economictimes.com          | 4286     | PASSED       | Fully Verified
+187  | 2025-01-10 | cntraveller.in               | 2771     | PASSED       | Fully Verified
+188  | 2025-01-13 | newindianexpress.com         | 7696     | PASSED       | Fully Verified
+189  | 2025-01-19 | indiatoday.in                | 14309    | PASSED       | Fully Verified
+190  | 2025-03-06 | timesofindia.indiatimes.com  | 5656     | PASSED       | Fully Verified
+191  | 2025-01-17 | indiatoday.in                | 3603     | PASSED       | Fully Verified
+192  | 2025-03-13 | etvbharat.com                | 3501     | PASSED       | Fully Verified
+194  | 2026-01-04 | yourstory.com                | 4332     | PASSED       | Fully Verified
+196  | 2025-01-14 | businesstoday.in             | 3084     | PASSED       | Fully Verified
+197  | 2024-10-06 | timesofindia.indiatimes.com  | 4188     | PASSED       | Fully Verified
+198  | 2025-01-15 | storyboard18.com             | 12589    | PASSED       | Fully Verified
+199  | 2025-01-03 | timesofindia.indiatimes.com  | 5469     | PASSED       | Fully Verified
+200  | 2025-10-01 | hinduismtoday.com            | 22758    | PASSED       | Fully Verified
+202  | 2025-11-26 | statista.com                 | 6653     | PASSED       | Fully Verified
+203  | 2025-11-06 | newindianexpress.com         | 3329     | PASSED       | Fully Verified
+205  | 2025-11-06 | theweek.in                   | 2765     | PASSED       | Fully Verified
+207  | 2025-01-16 | hindusforhumanrights.org     | 9897     | PASSED       | Fully Verified
+208  | 2025-01-29 | bbc.com                      | 4988     | PASSED       | Fully Verified
+219  | 2025-02-20 | ipsos.com                    | 5284     | PASSED       | Fully Verified
+221  | 2025-01-13 | theguardian.com              | 5692     | PASSED       | Fully Verified
+222  | 2025-03-17 | theguardian.com              | 7919     | PASSED       | Fully Verified
+223  | 2025-01-16 | myvi.in                      | 5029     | PASSED       | Fully Verified
+226  | 2025-01-16 | cntraveller.com              | 8781     | PASSED       | Fully Verified
+227  | 2025-06-30 | bbc.com                      | 9327     | PASSED       | Fully Verified
+228  | 2025-02-11 | fairobserver.com             | 8717     | PASSED       | Fully Verified
+229  | 2025-06-11 | thehindu.com                 | 2137     | PASSED       | Fully Verified
+230  | 2025-01-29 | bbc.com                      | 7301     | PASSED       | Fully Verified
+232  | 2025-01-17 | aajtak.in                    | 426      | PASSED       | Fully Verified
+233  | 2025-01-23 | downtoearth.org.in           | 4479     | PASSED       | Fully Verified
+234  | 2025-02-20 | aajtak.in                    | 418      | PASSED       | Fully Verified
+235  | 2025-01-14 | socialsamosa.com             | 10827    | PASSED       | Fully Verified
+237  | 2025-01-12 | cnn.com                      | 6803     | PASSED       | Fully Verified
+239  | 2025-01-17 | socialsamosa.com             | 5442     | PASSED       | Fully Verified
+244  | 2025-01-13 | vajiramandravi.com           | 2947     | PASSED       | Fully Verified
+245  | 2025-09-25 | hinduismtoday.com            | 33714    | PASSED       | Fully Verified
+246  | 2025-01-27 | architecturaldigest.in       | 7921     | PASSED       | Fully Verified
+247  | 2025-03-11 | blog.prif.org                | 10767    | PASSED       | Fully Verified
+248  | 2025-01-28 | myvi.in                      | 6794     | PASSED       | Fully Verified
+249  | 2025-01-18 | timesofindia.indiatimes.com  | 5383     | PASSED       | Fully Verified
+250  | 2025-01-13 | firstpost.com                | 4817     | PASSED       | Fully Verified
+252  | 2025-01-06 | aajtak.in                    | 486      | PASSED       | Fully Verified
+255  | 2025-01-30 | theguardian.com              | 7338     | PASSED       | Fully Verified
+257  | 2025-02-17 | thehindu.com                 | 5121     | PASSED       | Fully Verified
+258  | 2025-01-15 | indianexpress.com            | 7460     | PASSED       | Fully Verified
+260  | 2025-02-26 | firstpost.com                | 7751     | PASSED       | Fully Verified
+261  | 2025-05-17 | gktoday.in                   | 3034     | PASSED       | Fully Verified
+262  | 2025-02-26 | aajtak.in                    | 553      | PASSED       | Fully Verified
+263  | 2025-02-11 | etvbharat.com                | 2692     | PASSED       | Fully Verified
+266  | 2025-02-07 | hinduamerican.org            | 435      | PASSED       | Fully Verified
+269  | 2025-02-14 | deccanherald.com             | 889      | PASSED       | Fully Verified
+271  | 2025-02-24 | thehindu.com                 | 1917     | PASSED       | Fully Verified
+278  | 2025-01-12 | thefederal.com               | 2837     | PASSED       | Fully Verified
+279  | 2025-05-16 | timesofindia.indiatimes.com  | 4952     | PASSED       | Fully Verified
+280  | 2025-02-27 | hindustantimes.com           | 7451     | PASSED       | Fully Verified
+285  | 2025-01-13 | odishatv.in                  | 1691     | PASSED       | Fully Verified
+286  | 2025-02-15 | timesofindia.indiatimes.com  | 5843     | PASSED       | Fully Verified
+287  | 2025-01-16 | thehindu.com                 | 5124     | PASSED       | Fully Verified
+289  | 2025-01-15 | cntraveller.in               | 4620     | PASSED       | Fully Verified
+290  | 2025-02-13 | timesofindia.indiatimes.com  | 4075     | PASSED       | Fully Verified
+291  | 2025-01-17 | wodnesprawy.pl               | 4723     | PASSED       | Fully Verified
+292  | 2025-01-16 | indianexpress.com            | 3319     | PASSED       | Fully Verified
+293  | 2025-02-25 | thehindu.com                 | 3280     | PASSED       | Fully Verified
+294  | 2025-01-27 | aninews.in                   | 4107     | PASSED       | Fully Verified
+297  | 2025-02-28 | hindustantimes.com           | 4685     | PASSED       | Fully Verified
+298  | 2025-11-27 | timesofindia.indiatimes.com  | 6854     | PASSED       | Fully Verified
+299  | 2025-05-18 | timesofindia.indiatimes.com  | 5269     | PASSED       | Fully Verified
+303  | 2025-01-08 | timesofindia.indiatimes.com  | 4803     | PASSED       | Fully Verified
+304  | 2025-01-31 | timesofindia.indiatimes.com  | 5581     | PASSED (WARN) | No core Kumbh/Simhastha keywords detected in text
+309  | 2025-10-27 | timesofindia.indiatimes.com  | 6601     | PASSED (WARN) | No core Kumbh/Simhastha keywords detected in text
+310  | 2024-12-26 | timesofindia.indiatimes.com  | 4136     | PASSED       | Fully Verified
+311  | 2026-02-26 | timesofindia.indiatimes.com  | 6267     | PASSED       | Fully Verified
+316  | 2025-01-12 | timesofindia.indiatimes.com  | 4513     | PASSED       | Fully Verified
+322  | 2025-01-02 | timesofindia.indiatimes.com  | 4939     | PASSED       | Fully Verified
+323  | 2026-01-31 | timesofindia.indiatimes.com  | 7180     | PASSED       | Fully Verified
+325  | 2024-12-11 | timesofindia.indiatimes.com  | 4982     | PASSED       | Fully Verified
+326  | 2024-12-07 | timesofindia.indiatimes.com  | 5080     | PASSED (WARN) | No core Kumbh/Simhastha keywords detected in text
+328  | 2025-02-01 | timesofindia.indiatimes.com  | 4763     | PASSED       | Fully Verified
+329  | 2025-10-27 | timesofindia.indiatimes.com  | 6172     | PASSED       | Fully Verified
+331  | 2025-02-10 | timesofindia.indiatimes.com  | 5005     | PASSED       | Fully Verified
+332  | 2025-01-23 | timesofindia.indiatimes.com  | 5473     | PASSED       | Fully Verified
+339  | 2024-12-10 | timesofindia.indiatimes.com  | 5481     | PASSED       | Fully Verified
+342  | 2025-10-25 | thehindu.com                 | 4846     | PASSED       | Fully Verified
+
+==============================================================================================================
+VERIFICATION SUMMARY:
+   - TOTAL CHECKED:      192
+   - PASSED (PERFECT):   185
+   - PASSED (WITH WARN): 7
+   - FAILED:             0
+==============================================================================================================
